@@ -7,4 +7,4 @@ $npm install \
 $react-native run-android
 ################################ \
 Modifying your app \
-(R) key Reload  (Ctrl + M) Developer Menu \ 
+(R) key Reload  (Ctrl + M) Developer Menu 
